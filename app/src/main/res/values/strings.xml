@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mommy Mode</string>
+    <string name="add_task">Add Task</string>
+
+    <string name="Responsibility1_name">Eli</string>
+    <string name="Responsibility2_name">Halani</string>
+    <string name="Responsibility3_name">Horace</string>
+    <string name="Responsibility4_name">Car</string>
+    <string name="Responsibility5_name">Home</string>
+    <string name="Responsibility6_name">Mom</string>
+    <string name="Responsibility7_name">Dad</string>
+    <string name="Responsibility8_name">Church</string>
+    <string name="Responsibility9_name">Grocery List</string>
+    <string name="Responsibility10_name">Work</string>
+    <string name="Responsibility11_name">School</string>
+    <string name="Responsibility_name">Me Time</string>
+
+    <string name="task1_description">Pickup from football practice 5:30 pm M-Th. Prepare for picture day on August 30th. </string>
+    <string name="task2_description">Research art programs for my artistically talented niece.</string>
+    <string name="task3_description">Find time to build Legos with my cool nephew.</string>
+    <string name="task4_description">Clean car or find boyfriend to do the job.</string>
+    <string name="flower5_description">Dust and vac.</string>
+    <string name="task6_description">Schedule time to decorate bedroom with mom.</string>
+    <string name="task7_description">Treat dad to a special meal for being awesome.</string>
+    <string name="task8_description">Pay tithes for the month.</string>
+    <string name="task9_description">Shopping list: agave syrup, almond milk, turkey lunch meat.</string>
+    <string name="task10_description">Complete grant application and plan next work event.</string>
+    <string name="task11_description">Catch up on studying. Progress to unit 3.</string>
+    <string name="task12_description">Schedule a massage. You deserve it! Get hot yoga back on your weekly schedule</string>
+
+    <string name="priorities_string">Priorities</string>
+    <string name="task_finder">Mommy Mode</string>
+    <string name="task_description_edit_text">Task Description</string>
+    <string name="task_name_edit_text">Category</string>
+    <string name="done_button_text">Done</string>
+    <string name="fab_content_description">fab</string>
+    <string name="task_image_content_description">Image of reminder</string>
+    <string name="remove_this_task">Remove this task</string>
+    <string name="mommy_mode">Mommy Mode</string>
+    <string name="tasks_string">Tasks</string>
+    <string name="edit_this_task">EDIT THIS TASK</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="save_button_text">Save</string>
+    <string name="save_this_task">Save</string>
+
+</resources>
